@@ -1,6 +1,35 @@
+# Amazon Leadership Principles - Stories
+
 ## Customer Obsession
 
 _Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers._
+
+### Story 1
+
+#### Situation
+
+- Manufacturing client looking to use LLMs to extract key information from their Request For Quotation (RFQ) documents.
+- Started with a single-agent architecture, but the results were mediocre.
+
+#### Task
+
+- I knew mult-agent architecture would improve results.
+- Needed to convince the client to switch to the new architecture, which would require more project time.
+
+#### Action
+
+To address the client’s skepticism, I:
+
+1. Demonstrated the limitations of the single-agent architecture, using specific examples of missed supplier parts.
+2. Introduced the multi-agent approach, explaining how it assigned specific tasks to each agent, ensuring better coordination and coverage.
+3. Ran a test case on one of their ten use cases to showcase the improved accuracy and completeness.
+4. Created clear diagrams to visually explain the new architecture, helping the client learn and feel more confident about the approach.
+
+#### Results
+
+- Multi-agent architecture produced results that were 3x better than the single-agent approach.
+- Solution was seen as more reliable and was adopted by more users, tripling usage within the client’s organization.
+- The project moved from a proof-of-concept to a fully integrated tool within the client’s operations, reinforcing trust in our team’s expertise.
 
 ## Ownership
 
@@ -61,3 +90,5 @@ _Leaders work every day to create a safer, more productive, higher performing, m
 ## Success and Scale Bring Broad Responsibility
 
 _We started in a garage, but we’re not there anymore. We are big, we impact the world, and we are far from perfect. We must be humble and thoughtful about even the secondary effects of our actions. Our local communities, planet, and future generations need us to be better every day. We must begin each day with a determination to make better, do better, and be better for our customers, our employees, our partners, and the world at large. And we must end every day knowing we can do even more tomorrow. Leaders create more than they consume and always leave things better than how they found them._
+
+## Leadership Principle: Deliver Results
